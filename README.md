@@ -1,5 +1,8 @@
 TIL
 ----
+Little things I have learned along the way
+
+
 * [bash](bash)
   * [validate-ip.md](bash/validate-ip.md)
 * [cli-clients](cli-clients)
@@ -14,8 +17,6 @@ TIL
   * [selfdocumenting.md](make/selfdocumenting.md)
 * [osx](osx)
   * [osx_plist.md](osx/osx_plist.md)
-  * [test](osx/test)
-    * [test](osx/test/test)
 * [raspberrypi](raspberrypi)
   * [plex_server.md](raspberrypi/plex_server.md)
   * [rpi_install_osx.md](raspberrypi/rpi_install_osx.md)
@@ -24,5 +25,3 @@ TIL
   * [saving_to_readonly_file.md](vim/saving_to_readonly_file.md)
 * [vmware_fussion](vmware_fussion)
   * [notes.md](vmware_fussion/notes.md)
-  * [test](vmware_fussion/test)
-    * [test](vmware_fussion/test/test)
