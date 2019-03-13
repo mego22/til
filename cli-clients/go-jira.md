@@ -43,7 +43,7 @@ Use `jira session` to test your config and api key/password. Note that after the
 	$ jira session
 	? Jira API-Token [JIRA_USER]:  [? for help] ************************
 	op: Get
-	url: spreedly.atlassian.net/rest/auth/1/session
+	url: JIRA_URL/rest/auth/1/session
 	err: {}
 	```
 	
