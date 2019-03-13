@@ -45,7 +45,7 @@ Use `jira session` to test your config and api key/password. Note that after the
 	op: Get
 	url: JIRA_URL/rest/auth/1/session
 	err: {}
-	```
+  ```
 	
 ## Useful commands
 ### My open tickets
