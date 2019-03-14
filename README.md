@@ -11,6 +11,7 @@ Little things I have learned along the way
   * [cherry-pick.md](git/cherry-pick.md)
   * [cli-merge.md](git/cli-merge.md)
   * [squash-commit-messages.md](git/squash-commit-messages.md)
+* [gpg.md](gpg.md)
 * [jenkins](jenkins)
   * [remote_triggers.md](jenkins/remote_triggers.md)
 * [make](make)
@@ -25,3 +26,4 @@ Little things I have learned along the way
   * [saving_to_readonly_file.md](vim/saving_to_readonly_file.md)
 * [vmware_fussion](vmware_fussion)
   * [notes.md](vmware_fussion/notes.md)
+
