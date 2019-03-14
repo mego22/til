@@ -11,7 +11,7 @@ This will encrypt FILE in ASCII armored output.
 gpg --armour --encrypt --trust-model always --recipient UID --output FILE.gpg FILE
 ```
 
-### Encrypting output from command
+### Encrypting output from a command
 This will encrypt `testing123` in ASCII armored output.
 
 ```
